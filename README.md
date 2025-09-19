@@ -5,9 +5,18 @@
 > - Baudrillard, Fragments: Cool Memories III, 1990-1995
 ## CONTACT
 rhizomatic.systems@protonmail.com
-
+### PROFILES
+Nostr
+```npub1qxu5zvm970hqmt5r05vhpqzyspv3ptdkpruy6mwmq48y4ruj4dsszn8u77```
+### LIVE COMMUNICATION
 Session ID:
 ```054ebaa15a6575a355ffb377f5e44002e5e6eb01200fa5c4a20ae40688de0c3f00```
-### PROFILES
-### COMMUNICATION
-<!-- document version 0.1.6 -->
+### COMMUNITIES/CHANNELS
+<!-- document version 0.2.7 -->
+
+## COMRADES AND SUPPORTED PROJECTS
+<!--
+This list is not comprehensive, but includes projects that reflect the ethos of Rhizomatic Systems
+- Rnode by xxxxxx (GitHub Repo)
+- Nostr Protocol
+- FOSSCAD  -->
